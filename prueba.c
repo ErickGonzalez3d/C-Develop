@@ -9,6 +9,6 @@ int main()
     b = 14;
     c = 3;
 
-    printf("hola este es un men %d ", a);
+    printf("hola este es un mensaje prueba %d ", a);
     return 0;
 }
